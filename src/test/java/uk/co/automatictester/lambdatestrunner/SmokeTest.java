@@ -8,6 +8,6 @@ public class SmokeTest {
 
     @Test
     public void runSmokeTest() {
-        assertTrue(true);
+        assertTrue(false);
     }
 }
